@@ -1,0 +1,25 @@
+1.1 Primitive Data Structures
+
+Definition: Stores single, simple values.
+
+Examples: Integer, Float, Character, Boolean
+
+Reason for use: Uses minimal memory and is fast to process
+
+Applications:
+
+Age in student records
+
+Marks in exams
+
+Status flags in operating systems
+
+1.2 Non-Primitive Data Structures
+
+Definition: Stores multiple values and represents complex data
+
+Categories:
+
+Linear Data Structures (Array, Linked List, Stack, Queue)
+
+Non-Linear Data Structures (Tree, Graph)
